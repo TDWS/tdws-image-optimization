@@ -1,4 +1,15 @@
 #!/bin/bash
+#################################################################
+ # Copyright (C) 2016 Ti Dimensie AG 
+ # Webiste: https://tdwebservices.com/
+ # E-Mail: info@tdwebservices.com
+ # 
+ # This file is part of TDWS Image Optimization.
+ # 
+ # This file is subject to the terms and conditions defined in
+ # file 'LICENSE.txt', which is part of this source code package. 
+################################################################# 
+ 
 OPTIPNG_BIN="/usr/bin/optipng"
 JPEGOPTIM_BIN="/usr/bin/jpegoptim"
 LOG_DIR="/root"
