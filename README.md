@@ -18,7 +18,7 @@ Then make this into a cronjob by adding a line to cron like:
 
 ``` 
 # m h dom mon dow command
-0 1 * * * /root/imageoptimizer.bash
+0 1 * * * /root/imageoptimizer.bash /var/www/
 ``` 
 
 System Requirements
